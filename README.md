@@ -35,10 +35,10 @@
     <img src="https://images.unsplash.com/photo-1631528754981-dcbce4d4d652?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80" alt="Logo" width="700" height="400">
   </a>
 
-<h3 align="center">RNA taxonomy prediction using Markov Chains</h3>
+<h3 align="center">ATMs</h3>
 
   <p align="center">
-    Here we are going to work with an open csv-dataset which consist on RNA sequences with several viruses. Using python we expect we'll be able to create an AI model that classifies between normal and anormal RNA sequences. Our main idea is to implement a hidden Markov chain model.
+    
     <br />
     <a href="https://github.com/github_santiagoahl/repo_name"><strong>Explore the docs »</strong></a>
     <br />
